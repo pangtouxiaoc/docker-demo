@@ -13,6 +13,11 @@ namespace WebApplication1
             return View();
         }
 
+        public IActionResult Index0()
+        {
+            return View();
+        }
+
         public IActionResult Index2()
         {
             return View();
