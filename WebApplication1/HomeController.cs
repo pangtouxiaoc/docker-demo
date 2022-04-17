@@ -15,8 +15,6 @@ namespace WebApplication1
 
         public IActionResult Index0()
         {
-            var a = 1;
-            var a = 2;
             return View();
         }
     }
