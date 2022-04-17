@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiGWxMDdtkJDwm7UX87X7TdwlzjPSn/+/GVdSuZtAV9du+btAoKvWXEfwhA8WAn2aMhd8X0iI4QDIL7ds7ONRA==",
+  "dgSpecHash": "ccUhQU0G+Ar9qFL06LPSSpoDpowE3yR1aMQ8aCK/vMzkW2kiYjSXFwvFWEsnFSlpSNqsuwfC4TO0wpG84StOyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\work\\code\\git\\docker-demo\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
   ],
